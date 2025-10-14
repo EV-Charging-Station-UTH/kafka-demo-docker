@@ -10,7 +10,7 @@ All services are containerized using Docker and can be easily started using Dock
 
 ### 1️⃣ Clone or download this repository
 ```bash
-git clone https://github.com/trandinh0506/kafka-demo-docker.git
+git clone https://github.com/EV-Charging-Station-UTH/kafka-demo-docker.git
 cd kafka-demo-docker
 ```
 
